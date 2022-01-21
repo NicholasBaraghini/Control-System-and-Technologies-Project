@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+ CODESYS Exception File 
+ Created at: martedì 14 gennaio 2020 
+--------------------------------------------------------------------------------
+Type:       System.IO.DirectoryNotFoundException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message:    Impossibile trovare una parte del percorso 'C:\Users\Baraghini\AppData\Roaming\Telegram Desktop UWP'.
+Source:     mscorlib
+Stack trace:
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.Directory.SetCurrentDirectory(String path)
+   in _3S.CODESYS.WebBrowserIntegration.CefAssemblyLoader.OnAllSystemInstancesAvailable()
+   in _3S.CoDeSys.Core.Components.ComponentManager.CreateSystemInstances(CreateSystemInstancesCallback callback)
+   in _3S.CoDeSys.Main.CoDeSys.RunUI(CommandLine cmdLine)
+   in _3S.CoDeSys.Main.CoDeSys.Main(String[] args)
+- - - - - - - - - -

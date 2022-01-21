@@ -1,0 +1,229 @@
+--------------------------------------------------------------------------------
+ CODESYS Versions File 
+ Created at: martedì 14 gennaio 2020 
+--------------------------------------------------------------------------------
+Startup profile: ....................... CODESYS V3.5 SP15 Patch 1
+OS version: ............................ Microsoft Windows NT 10.0.18362.0
+.NET version: .......................... 4.0.30319.42000
+- - - - - - - - - -
+RecipeManagement Object ................ 3.5.15.0
+Redundancy Object ...................... 3.5.15.0
+Device Ethercat ........................ 3.5.15.10
+Visualization editor ................... 3.5.15.0
+Data Sources Symbolic Provider ......... 3.5.15.0
+Logging Component ...................... 3.5.15.0
+Text Document .......................... 3.5.15.0
+BrowserCommands ........................ 3.5.15.0
+Online Manager ......................... 3.5.15.10
+RISC codegenerator frontend ............ 3.5.15.0
+ARM Codegenerator ...................... 3.5.15.0
+EmbeddedRuntimeExtension ............... 3.5.15.0
+Resource Editor ........................ 3.5.15.0
+Device Categories ...................... 3.5.15.0
+186 Codegenerator ...................... 3.5.15.0
+Device Sercos3 ......................... 3.5.15.0
+NVL Object ............................. 3.5.15.0
+Variable Declaration Object ............ 3.5.15.0
+Tabular Declaration Editor ............. 3.5.15.0
+Undo Manager ........................... 3.5.15.0
+PLCopenXML ............................. 3.5.15.0
+Trace Object ........................... 3.5.15.0
+Documentation Export ................... 3.5.15.0
+Compiler for the compiler Version 3.5.15.0  3.5.15.10
+Device Communication Editor ............ 3.5.15.10
+Device Editor J1939 .................... 3.5.15.10
+Application Object ..................... 3.5.15.0
+Trend Recording Objects ................ 3.5.15.0
+MIPS Codegenerator ..................... 3.5.15.0
+Device Modbus TCP Slave ................ 3.5.15.0
+POU Editor ............................. 3.5.15.0
+Application Composer Device Diagnosis .. 3.5.15.0
+Project Information Editor ............. 3.5.15.0
+Image pool ............................. 3.5.15.0
+Common Icons ........................... 3.5.15.0
+Device Object .......................... 3.5.15.10
+Interface Editor ....................... 3.5.15.0
+Online Expression Interpreter .......... 3.5.15.0
+Script Driver Online ................... 3.5.15.0
+GVL Object ............................. 3.5.15.0
+Visualization Styles ................... 3.5.15.0
+External File Object ................... 3.5.15.0
+Property editor ........................ 3.5.15.0
+ColdFire Codegenerator ................. 3.5.15.0
+Project Information Object ............. 3.5.15.0
+Target Settings ........................ 3.5.15.0
+Device NetX ............................ 3.5.15.0
+Alarm Configuration Objects ............ 3.5.15.0
+Input Assistant ........................ 3.5.15.0
+Object Manager Utilities ............... 3.5.15.0
+Data Sources ApplicationV3 Provider .... 3.5.15.0
+TaskConfig Editor ...................... 3.5.15.0
+Device CANBus Local Device ............. 3.5.15.0
+SFC Implementation Object .............. 3.5.15.0
+Unit Conversion Editor ................. 3.5.15.0
+Usage Analysis ......................... 3.5.15.0
+CSourceCodeObject ...................... 3.5.15.0
+Usage Analysis UI ...................... 3.5.15.0
+C28x Codegenerator ..................... 3.5.15.0
+Message View ........................... 3.5.15.0
+x86 Codegenerator ...................... 3.5.15.0
+Language Model Manager Legacy .......... 3.5.15.0
+Project Localization ................... 3.5.15.0
+Application Composer CFC Generator ..... 3.5.15.0
+Visu Generated Code .................... 3.5.15.0
+CODESYS Frame .......................... 3.5.15.10
+Object Manager ......................... 3.5.15.0
+Online Commands ........................ 3.5.15.0
+Static Analysis Manager ................ 3.5.15.0
+Symbol Configuration Object ............ 3.5.15.10
+Package Management UI .................. 3.5.15.0
+Visual Element Implementation Extensions  3.5.15.0
+xPIC Codegenerator ..................... 3.5.15.0
+SmartCoding Options .................... 3.5.15.10
+Binary Archive ......................... 3.5.15.0
+Repository Elements Resolver ........... 3.5.15.10
+Task Config Utilities .................. 3.5.15.0
+RecipeManagement Editor ................ 3.5.15.0
+XML Archive ............................ 3.5.15.0
+Environment ............................ 3.5.15.0
+C16x Codegenerator ..................... 3.5.15.0
+Device Profinet IO ..................... 3.5.15.10
+Library Manager Object ................. 3.5.15.10
+Redundancy Editor ...................... 3.5.15.0
+Object Commands ........................ 3.5.15.10
+Application Composer Sequence Editor ... 3.5.15.0
+Unit Conversion Object ................. 3.5.15.0
+Refactoring ............................ 3.5.15.0
+HMI Project Wizard ..................... 3.5.15.0
+POU Object ............................. 3.5.15.0
+Default Navigators ..................... 3.5.15.0
+Device CIP ............................. 3.5.15.0
+ARM64 Codegenerator .................... 3.5.15.0
+SFC Transition Object .................. 3.5.15.0
+DUT Editor ............................. 3.5.15.0
+Script Driver DeviceObject ............. 3.5.15.0
+Target Settings Documentation Export ... 3.5.15.0
+Compiler for the compiler Version 3.5.14.0  3.5.15.10
+Compiler Version < 3.5.14.0 ............ 3.5.15.0
+Device Modbus .......................... 3.5.15.0
+Language Model Manager Configurators ... 3.5.15.0
+Watchlist View ......................... 3.5.15.0
+Script Driver SymbolConfigObject ....... 3.5.15.0
+User Management ........................ 3.5.15.0
+Logical Exchange GVL Editor ............ 3.5.15.0
+Cortex-M3 Codegenerator ................ 3.5.15.0
+Script Driver LibManObject ............. 3.5.15.0
+Device Profibus Slave .................. 3.5.15.0
+CFC Editor ............................. 3.5.15.0
+Task Editor ............................ 3.5.15.0
+Trace Editor ........................... 3.5.15.0
+Message Storage ........................ 3.5.15.0
+User Management UI ..................... 3.5.15.0
+Package Management ..................... 3.5.15.0
+ST Snippet Provider .................... 3.5.15.0
+MemoryView ............................. 3.5.15.0
+Plc Logic Object ....................... 3.5.15.0
+Eds-File Converter ..................... 3.5.15.0
+Nios II Codegenerator .................. 3.5.15.0
+DataSource Object ...................... 3.5.15.0
+Text Editor Basics ..................... 3.5.15.0
+PowerPC Codegenerator .................. 3.5.15.0
+Blackfin Codegenerator ................. 3.5.15.0
+Language Model Utilities ............... 3.5.15.0
+Script Driver Projects ................. 3.5.15.0
+Security Manager ....................... 3.5.15.0
+Application Composer Trend Generator ... 3.5.15.0
+Breakpoints ............................ 3.5.15.0
+Data Sources Objects ................... 3.5.15.0
+Simulation ............................. 3.5.15.0
+Visualization Paint Commands ........... 3.5.15.0
+AutoDeclare ............................ 3.5.15.0
+Property object ........................ 3.5.15.0
+ST Implementation Object ............... 3.5.15.0
+Device CANbus .......................... 3.5.15.0
+File Commands .......................... 3.5.15.10
+Interface Object ....................... 3.5.15.0
+Script Driver Visualization ............ 3.5.15.0
+Version Compatibility Manager .......... 3.5.15.0
+Bookmarks .............................. 3.5.15.0
+CFC Implementation Object .............. 3.5.15.0
+Standard Project Wizard ................ 3.5.15.0
+Print Engine ........................... 3.5.15.0
+Workspace Editor ....................... 3.5.15.0
+Option Storage ......................... 3.5.15.0
+Visualization object ................... 3.5.15.10
+Trend Recording Editors ................ 3.5.15.0
+Navigator Control ...................... 3.5.15.0
+Extension SafetyOnline ................. 3.5.15.0
+ST Editor .............................. 3.5.15.0
+Alarm Configuration Editors ............ 3.5.15.0
+Resource Object ........................ 3.5.15.0
+Network List Editor .................... 3.5.15.0
+TaskConfig Object ...................... 3.5.15.0
+Script Driver Application Composer ..... 3.5.15.0
+Device Profibus DP ..................... 3.5.15.0
+Common Utilities ....................... 3.5.15.0
+Action Object .......................... 3.5.15.0
+Method Editor .......................... 3.5.15.0
+Device Editor .......................... 3.5.15.0
+Visualelement Repository ............... 3.5.15.10
+Store .................................. 3.5.15.0
+Method Object .......................... 3.5.15.0
+GVL Editor ............................. 3.5.15.0
+Device Scan ............................ 3.5.15.0
+VisualizationManagement editor ......... 3.5.15.0
+Codegenerator for x86-64 architecture .. 3.5.15.0
+NVL Editor ............................. 3.5.15.0
+License Manager ........................ 3.5.15.10
+Find/Replace ........................... 3.5.15.0
+IEC 61131-3 Text Editor ................ 3.5.15.10
+Symbol Configuration Editor ............ 3.5.15.0
+Device Editor PLCNext .................. 3.5.15.0
+Project Archive ........................ 3.5.15.0
+Web Browser Integration ................ 3.5.15.0
+DUT Object ............................. 3.5.15.0
+SFC Transition Editor .................. 3.5.15.0
+Visualization element .................. 3.5.15.10
+Text lists for multi language support .. 3.5.15.0
+CSourceComponentBuilder ................ 3.5.15.0
+Network List Object .................... 3.5.15.0
+Engine ................................. 3.5.15.0
+Script Driver System ................... 3.5.15.0
+Online Help ............................ 3.5.15.0
+Item Selection Editor .................. 3.5.15.0
+RX Codegenerator ....................... 3.5.15.0
+ToolBox View ........................... 3.5.15.0
+Script Engine Plugin ................... 3.5.15.0
+DataSource Editor ...................... 3.5.15.0
+Application Composer Alarm Generator ... 3.5.15.0
+Project Compare ........................ 3.5.15.0
+POU Image .............................. 3.5.15.0
+Hitachi SH Codegenerator ............... 3.5.15.0
+TriCore Codegenerator .................. 3.5.15.0
+Action Editor .......................... 3.5.15.0
+Build Commands ......................... 3.5.15.0
+Task Object ............................ 3.5.15.0
+Device Ethernet Adapter ................ 3.5.15.0
+Application Composer ................... 3.5.15.0
+Language Model Manager ................. 3.5.15.10
+CoreDump ............................... 3.5.15.0
+Edit Commands .......................... 3.5.15.0
+Device Repository ...................... 3.5.15.10
+Library Manager Editor ................. 3.5.15.10
+Device IOLink .......................... 3.5.15.0
+Cross Reference View ................... 3.5.15.0
+Data Sources Editors ................... 3.5.15.0
+Device Reader .......................... 3.5.15.0
+SFC Editor ............................. 3.5.15.0
+Device Modbus Serial Slave ............. 3.5.15.0
+Property View .......................... 3.5.15.0
+Default Gateway client ................. 3.5.15.0
+CNC function blocks .................... 4.5.1.0
+AxisGroup Editor ....................... 4.5.1.0
+AxisGroup Object ....................... 4.5.0.0
+Cam Editor ............................. 4.5.0.0
+Cam Implementation Object .............. 4.5.0.0
+CNC Editor ............................. 4.5.0.0
+Device SoftMotion ...................... 4.5.1.0
+Script Driver SoftMotion ............... 4.2.0.0
+SoftMotion Plug-In ..................... 4.5.1.0
